@@ -1,1 +1,1 @@
-# CS-2340---Computer-Architechture
+# CS 2340 - Computer Architechture
